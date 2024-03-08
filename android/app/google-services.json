@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973612146242",
+    "project_id": "flash-chat-68748",
+    "storage_bucket": "flash-chat-68748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973612146242:android:912358a8e8a717481c57db",
+        "android_client_info": {
+          "package_name": "io.airnovate.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32cgZsyV4vb_otjYDUgvn7FKKXuFAdIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
